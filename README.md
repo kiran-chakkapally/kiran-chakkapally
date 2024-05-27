@@ -19,7 +19,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" alt="Excel" width="40" height="40" style="background-color: white; border-radius: 5px;"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" width="40" height="40" style="background-color: white; border-radius: 5px;"/> </a>
-  <a href="https://www.tableau.com/products/prep" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2020-06/prep_logo.png" alt="Tableau Prep" width="40" height="40" style="background-color: white; border-radius: 5px;"/> </a>
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-chakkapally&show_icons=true&locale=en&layout=compact" alt="kiran-chakkapally" /></p>
