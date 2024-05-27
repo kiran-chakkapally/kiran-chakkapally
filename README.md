@@ -33,8 +33,7 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" alt="Tableau" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" /> 
   </a>
-  <a href="https://www.tableau.com/products/prep" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tableau.com/sites/default/files/2020-06/prep_logo.png" alt="Tableau Prep" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" /> 
+ 
   </a>
 </p>
 
